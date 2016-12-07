@@ -1,0 +1,35 @@
+# Lab 14
+
+Chancellor Owens (810-900-506)
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile and link  my code, type:
+
+```
+$ make
+```
+
+To run my code (after compiling it), type:
+
+```
+$ ./repl
+
+```
+
+## Reflection
+
+Compared to my initial brainstorm,
+This lab was pretty tough.
+I dont think i did everything
+I know pipes doesnt work, 
+it just runs programs one after another.
+other than that and cd everything runs safely 
+with fork and execvp.
+But use the cluster to be safe!

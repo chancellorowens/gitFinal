@@ -1,0 +1,35 @@
+# Lab 14
+
+Chancellor Owens (810-900-506)
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile and link  my code, type:
+
+```
+$ make
+```
+
+To run my code (after compiling it), type:
+
+```
+$ ./repl
+
+```
+
+## Reflection
+
+Compared to my initial brainstorm,
+We havent done anything since lab 14 yet 
+but the plan is to use some of my lab and some
+of seths lab and see what the best parts are
+then we will get one by one everything done.
+Piping seems to be the biggest problem
+so once we figure than out it should
+be smooth sailing
